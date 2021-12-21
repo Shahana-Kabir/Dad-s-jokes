@@ -1,0 +1,19 @@
+.JokeList{
+    display: flex;
+    width: 80%;
+    height: 80%;
+}
+
+.JokeList__sideBar{
+    margin-right: 2rem;
+    background: #9575cd;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.JokeLIst__sideBar__button{
+    margin-top: 2rem;
+}
